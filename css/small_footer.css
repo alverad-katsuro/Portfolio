@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+footer ul#contato li {
+    margin: 0px;
+    display: inline-block;
+    padding: 10px;
+}
